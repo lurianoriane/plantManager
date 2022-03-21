@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PlantManager</string>
+    <string name="hint">Intervalo (min)</string>
 </resources>
