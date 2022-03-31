@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation">
+
+    <fragment
+        android:id="@+id/howToNameFragment"
+        android:name="br.com.estudo.plantmanager.HowToNameFragment"
+        android:label="fragment_how_to_name"
+        tools:layout="@layout/fragment_how_to_name" >
+        <action
+            android:id="@+id/action_howToNameFragment_to_readyFragment"
+            app:destination="@id/readyFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/readyFragment"
+        android:name="br.com.estudo.plantmanager.ReadyFragment"
+        android:label="fragment_ready"
+        tools:layout="@layout/fragment_ready" />
+</navigation>
