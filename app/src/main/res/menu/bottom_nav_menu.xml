@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/my_plants"
+        android:icon="@drawable/my_plants_icon"
+        android:title="Minhas plantinhas" />
+    <item
+        android:id="@+id/new_plant"
+        android:icon="@drawable/new_plant_icon"
+        android:title="Nova planta" />
+</menu>

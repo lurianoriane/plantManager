@@ -6,10 +6,12 @@
     <color name="light_button">#DAF2E4</color>
     <color name="gray_button">#DCDCE5</color>
     <color name="blue_text">#3D7199</color>
-    <color name="water_box">#E6F1FA</color>
+    <color name="water_card">#E6F1FA</color>
     <color name="delete_box">#E6F1FA</color>
     <color name="black_text">#5C6660</color>
     <color name="gray_text">#AAB2AD</color>
+    <color name="white">#fff</color>
+    <color name="background_card">#F3F6F4</color>
 
 
 
