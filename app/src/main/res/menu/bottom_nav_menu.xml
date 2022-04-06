@@ -4,10 +4,10 @@
 
     <item
         android:id="@+id/my_plants"
-        android:icon="@drawable/my_plants_icon"
+        android:icon="@drawable/my_plants_icon_logic"
         android:title="Minhas plantinhas" />
     <item
         android:id="@+id/new_plant"
-        android:icon="@drawable/new_plant_icon"
+        android:icon="@drawable/new_plants_icon_logic"
         android:title="Nova planta" />
 </menu>

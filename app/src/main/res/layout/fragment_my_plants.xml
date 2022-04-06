@@ -20,6 +20,14 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+   <androidx.fragment.app.FragmentContainerView
+       android:layout_width="100dp"
+       android:layout_height="100dp"
+       android:id="@+id/warning_water"
+       android:background="@color/black_text"
+
+       />
+
 
 
 
